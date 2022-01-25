@@ -42,12 +42,12 @@ https://form.typeform.com/to/I9vjnCcI
 
 The first step is filling out the typeform, once we have your proposal we will:
 
-    1. Evaluate. Depending on which area you want to contribute your evaluators will be different.
-    2. Accept or deny. Once we review your proposal, we will get in touch with you about the status.
-    3. Define your delivery. All tasks will have different delivery requirements, we will clearly communicate
-    to you what your contribution will be required to fulfill.
-    4. Funding. Once the delivery of the task has been finalized, we will deposit your rewards to the account
-    that you shared with us.
+1. Evaluate. Depending on which area you want to contribute your evaluators will be different.
+2. Accept or deny. Once we review your proposal, we will get in touch with you about the status.
+3. Define your delivery. All tasks will have different delivery requirements, we will clearly communicate
+to you what your contribution will be required to fulfill.
+4. Funding. Once the delivery of the task has been finalized, we will deposit your rewards to the account
+that you shared with us.
 
 ## Team and Evaluators
 
