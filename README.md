@@ -34,9 +34,8 @@ on the WEB3 vision, we need all the help that we can get.
 
 ## How to Participate
 
-You can signal your intent to participate by filling out this typeform we have created for you :)
-https://form.typeform.com/to/I9vjnCcI
-
+You can signal your intent to participate by choosing a task from this [list](https://github.com/orgs/w3f/projects/13)
+of open tasks, and filling out [this](https://form.typeform.com/to/I9vjnCcI) typeform we have created for you :)
 
 ## Process
 
