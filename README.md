@@ -4,7 +4,6 @@
 <br>
 </div>
 
-
 - [Introduction](#introduction)
 - [How to Participate](#how-to-participate)
   - [Process](#process)
@@ -107,13 +106,13 @@ this programme and consider moving the program on-chain, as it makes sense.
 
 1KC Evaluators are individuals able to evaluate the contribution delivered from  the Contributors Programme. 
 
-- Supervisor: Bill Laboon
+- Supervisor: [Bill Laboon](https://github.com/laboon)
 - Technical Education: 
-  - Radhakrishna Dasari: Media related contributions 
-  - Emre Surmeli: Communinty related contributions
-  - Danny Salman: Documentation related contributions
+  - [Radhakrishna Dasari](https://github.com/DrW3RK): Media related contributions 
+  - [Emre Surmeli](https://github.com/emresurmeli): Communinty related contributions
+  - [Danny Salman](https://github.com/DannyS03): Documentation related contributions
 - Support: 
-  - Michalis Fragkiadakis: Support related contributions
+  - [Michalis Fragkiadakis](https://github.com/michalisFr): Support related contributions
 
 The 1KC evaluators will reach out to Subject Matter Experts within Web3 Foundation where a niche expert opinion is desirable.
 As the program is currently in a pilot model, an official committee will be established when the time is appropriate.
