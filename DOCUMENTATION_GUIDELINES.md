@@ -74,6 +74,3 @@ to documentation write material that is clear, concise, and consistent.
   - Instead of “caveat”, use an appropriate English substitute such as “notice”, “caution”, or “warning”.
   - Contractions give documentation a more natural conversational tone—at least for English speakers. 
     Be conscious of when and why you use contractions.
-
-To be con't
-...

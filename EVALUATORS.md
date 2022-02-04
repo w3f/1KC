@@ -2,10 +2,10 @@
 
 The following is a list of evaluators for the One Thousand Contributors Programme.
 
-Each evaluators's contact information 
-is listed as a precaution - if one of these people ever contacts you directly, first check the contact 
-information to see that it matches the origin of the message, and then feel free to get in touch with someone 
-else on this list to verify the legitimacy of the original inquiry. 
+Each evaluators's contact information is listed as a precaution - if one of these people ever 
+contacts you directly, first check the contact information to see that it matches the origin of the 
+message, and then feel free to get in touch with someone else on this list to verify the legitimacy 
+of the original inquiry. 
 
 :warning: **Employee impersonation is a common type of scam**. :warning:
 
@@ -30,24 +30,19 @@ else on this list to verify the legitimacy of the original inquiry.
 - email: [danny@web3.foundation](mailto:danny@web3.foundation)
 - matrix: [@danny:web3.foundation](https://matrix.to/#/@danny:web3.foundation)
 - twitter: [@dannysalman_](https://twitter.com/dannysalman_)
-
-## Community
-
-### Elodie Dincuff 
-
-### Urban Osvald
+- telegram: [@dannysalman](https://t.me/dannysalman)
 
 ## Support
 
 ### Michalis Fragkiadakis
 
+- email: [michalis@web3.foundation](mailto:michalis@web3.foundation)
+- matrix: [@michalis:web3.foundation](https://matrix.to/#/@michalis:web3.foundation)
+
 ### Direction & Supervision
 
-- Bill Laboon:
+#### Bill Laboon:
   - email: [bill@web3.foundation](mailto:bill@web3.foundation)
   - matrix: [@bill:web3.foundation](https://matrix.to/#/@bill:web3.foundation)
   - twitter: [@BillLaboon](https://twitter.com/BillLaboon)
   - telegram: [@BillLaboon](https://t.me/BillLaboon)
-
-To be con't 
-...
