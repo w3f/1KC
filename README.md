@@ -1,6 +1,6 @@
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/25497083/152479229-28d8a2d9-3158-4742-aff9-e8860dce11ca.png" width="500">
-<h1>One Thousand Contributors Programme</h1>
+<h1>Thousand Contributors Programme</h1>
 <br>
 </div>
 
@@ -89,7 +89,7 @@ any new ideas.
 
 ### Stage 3: Decentralize
 
-*Decentralize the program within greater conditions, for all participants.*
+*Decentralize the program without previous conditions, for all participants.*
 
 The program starts small with the goal to learn as we go. We plan to decentralize
 this programme and consider moving the program on-chain, as it makes sense. 
