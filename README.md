@@ -10,7 +10,7 @@
   - [Submission reviews](#submission-reviews)
 - [Roadmap](#roadmap)
   - [Stage 1: Pilot](#stage-1-pilot)
-  - [Stage 2: Scaling](#stage-2-scaling)
+  - [Stage 2: Scale](#stage-2-scale)
   - [Stage 3: Decentralize](#stage-3-decentralize)
 - [1KC Evaluators](#1kc-evaluators)
 - [Alternative Funding Sources](#alternative-funding-sources)
@@ -45,21 +45,21 @@ of open tasks, and then filling out this [typeform](https://form.typeform.com/to
 Once you have submitted your contribution proposal, the team will:
 
 1. Evaluate. Your [evaluators](#1kc-evaluators) will differ depending on which area you want to contribute.
-3. Accept or deny. Once we review your proposal, we will get in touch with you about the status.
-4. Define your delivery. All tasks will have different delivery requirements; we will communicate what your 
+2. Accept or deny. Once we review your proposal, we will get in touch with you about the status.
+3. Define your delivery. All tasks will have different delivery requirements; we will communicate what your 
 contribution needs to fulfill.
-5. Funding. Once the delivery of the task has been finalized, we will deposit your rewards to the account
+4. Funding. Once both parties finalize the delivery of the task, the team will deposit your rewards to the account
 shared with us.
 
 ### Submission reviews
 
-The review process follows the pipeline in the [1KC public GitHub project](https://github.com/orgs/w3f/projects/13).
+The review process follows the present pipeline in the [1KC public GitHub project](https://github.com/orgs/w3f/projects/13).
 
 ## Roadmap
 
 ### Stage 1: Pilot
 
-*Pilot the program within more general conditions, with non-adversarial participants.*
+*Pilot the program within more general conditions, for non-adversarial participants.*
 
 - Discover and understand the bottlenecks of this program.
 - Contributors of varying backgrounds and levels of expertise can submit contributions. These contributions will be 
@@ -73,9 +73,9 @@ Ambassador Programme](https://wiki.polkadot.network/docs/ambassadors) and active
 
 The purpose of this is to test out the program through active community members and reward existing contributors.
 
-### Stage 2: Scaling
+### Stage 2: Scale
 
-*Scale the program within greater conditions, with adversarial participants.*
+*Scale the program within greater conditions, for adversarial participants.*
 
 - Iterate portions subject to change based on lessons from the pilot program.
 - Extend the program to the general community.
@@ -89,7 +89,7 @@ any new ideas.
 
 ### Stage 3: Decentralize
 
-*Decentralize the program within grand conditions, with all participants.*
+*Decentralize the program within greater conditions, for all participants.*
 
 The program starts small with the goal to learn as we go. We plan to decentralize
 this programme and consider moving the program on-chain, as it makes sense. 
@@ -104,7 +104,7 @@ this programme and consider moving the program on-chain, as it makes sense.
 
 ## 1KC Evaluators
 
-1KC Evaluators are individuals able to evaluate the contribution delivered from  the Contributors Programme. 
+1KC Evaluators are individuals able to evaluate the contribution delivered from the Contributors Programme. 
 
 - Supervisor: [Bill Laboon](https://github.com/laboon)
 - Technical Education: 
