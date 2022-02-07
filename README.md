@@ -24,8 +24,8 @@
 The Technical Education and Support teams of the Web3 Foundation, along with the Community team 
 at Parity Technologies offer an off-chain contributor program to support and fund community 
 contributions. As part of our commitment to promoting the WEB3 ecosystem, this program focuses on 
-funding contributions in the areas of **Technical Education**, **Community** and 
-**Support** that relates to the Polkadot ecosystem.
+funding contributions in the areas of **technical education**, **community** and 
+**support** that relates to the Polkadot ecosystem.
 
 The program, One Thousand Contributors Programme or 1KC for short, takes motivation from the 
 [Thousand Validators Programme (1KV)](https://github.com/w3f/1k-validators-be) and the 
@@ -65,8 +65,16 @@ The review process follows the present pipeline in the [1KC public GitHub projec
 - Contributors of varying backgrounds and levels of expertise can submit contributions. These contributions will be 
 subject to compliance with established guidelines outlined in this document and high levels of scrutiny.
 
-The team initially launched the program as a pilot program with an estimated duration of around 14 weeks, where tasks 
-are outlined by Web3 Foundation and made publically available. 
+The team initially launched the program as a pilot program, where tasks are outlined by Web3 Foundation and made 
+publically available.
+
+The team uses this program as an off-chain reward mechanism to reward specific contributions from 
+the community. We believe this is supplementary to the on-chain treasury and bounties, which don't reward 
+specific contributions easily. See [Alternative Funding Sources](#alternative-funding-sources) for more details on 
+traditional funding methods.
+
+> However, the program also serves as an opportunity to encourage contributions in the areas of technical 
+> education, community, and support for the Polkadot ecosystem.
 
 **Target Audience**: Ambassadors that are part of the [Polkadot 
 Ambassador Programme](https://wiki.polkadot.network/docs/ambassadors) and active ecosystem members.
