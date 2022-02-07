@@ -59,14 +59,14 @@ The review process follows the present pipeline in the [1KC public GitHub projec
 
 ### Stage 1: Pilot
 
-*Pilot the program within more general conditions, for non-adversarial participants.*
+*Pilot the program with limited conditions*
 
 - Discover and understand the bottlenecks of this program.
 - Contributors of varying backgrounds and levels of expertise can submit contributions. These contributions will be 
 subject to compliance with established guidelines outlined in this document and high levels of scrutiny.
 
 The team initially launched the program as a pilot program, where tasks are outlined by Web3 Foundation and made 
-publically available.
+publicly.
 
 The team uses this program as an off-chain reward mechanism to reward specific contributions from 
 the community. We believe this is supplementary to the on-chain treasury and bounties, which don't reward 
@@ -83,21 +83,21 @@ The purpose of this is to test out the program through active community members 
 
 ### Stage 2: Scale
 
-*Scale the program within greater conditions, for adversarial participants.*
+*Scale the program with greater conditions*
 
-- Iterate portions subject to change based on lessons from the pilot program.
+- Apply improvements based on lessons from the pilot program.
 - Extend the program to the general community.
 - Create an official landing page.
 - Increase funding amount.
 
 After the pilot program, the team intends to scale this to a grants-proposal model, where the community can propose 
-any new ideas. 
+new ideas. 
 
 **Target Audience**: All types of Polkadot community members.
 
 ### Stage 3: Decentralize
 
-*Decentralize the program without previous conditions, for all participants.*
+*Decentralize the program with modified conditions*
 
 The program starts small with the goal to learn as we go. We plan to decentralize
 this programme and consider moving the program on-chain, as it makes sense. 
@@ -122,13 +122,14 @@ this programme and consider moving the program on-chain, as it makes sense.
 - Support: 
   - [Michalis Fragkiadakis](https://github.com/michalisFr): Support related contributions
 
-The 1KC evaluators will reach out to Subject Matter Experts within Web3 Foundation where a niche expert opinion is desirable.
-As the program is currently in a pilot model, an official committee will be established when the time is appropriate.
+The 1KC evaluators will reach out to Subject Matter Experts within Web3 Foundation where a niche expert opinion is 
+desirable. As the program is currently in a pilot model, an official committee will be established when the time is 
+appropriate.
  
 ## Alternative Funding Sources
  
-We encourage you to explore the alternative funding options listed below. Please note, however, that you should not seek to fund 
-the exact scope of work from multiple sources and that any team found doing so will have its Web3 Foundation support terminated.
+We encourage you to explore the alternative funding options listed below. Please note, however, that you should not 
+seek to fund the same work from multiple sources. Anyone found doing so will be terminated from 1KC program.
 
 ### Treasury
 
