@@ -9,9 +9,9 @@
   - [Process](#process)
   - [Submission reviews](#submission-reviews)
 - [Roadmap](#roadmap)
-  - [Stage 1: Pilot](#stage-1-pilot)
-  - [Stage 2: Scale](#stage-2-scale)
-  - [Stage 3: Decentralize](#stage-3-decentralize)
+  - [Phase 1: Pilot](#phase-1-pilot)
+  - [Phase 2: Scale](#phase-2-scale)
+  - [Phase 3: Decentralize](#phase-3-decentralize)
 - [1KC Evaluators](#1kc-evaluators)
 - [Alternative Funding Sources](#alternative-funding-sources)
   - [Treasury](#treasury)
@@ -21,7 +21,7 @@
 
 ## Introduction
 
-The Technical Education and Support teams of the Web3 Foundation, along with the Community team 
+The Technical Education and Support teams of Web3 Foundation, along with the Community team 
 at Parity Technologies offer an off-chain contributor program to support and fund community 
 contributions. As part of our commitment to promoting the WEB3 ecosystem, this program focuses on 
 funding contributions in the areas of **technical education**, **community** and 
@@ -37,8 +37,10 @@ The program, One Thousand Contributors Programme or 1KC for short, takes motivat
 
 ## How to Participate
 
-You can signal your intent to participate by choosing a task from this [list](https://github.com/orgs/w3f/projects/13)
-of open tasks, and then filling out this [typeform](https://form.typeform.com/to/I9vjnCcI).
+You can signal your intent to participate by: 
+
+1. Choosing a task from this [list](https://github.com/orgs/w3f/projects/13) of open tasks,
+2. Then filling out this [typeform](https://form.typeform.com/to/I9vjnCcI)
 
 ### Process
 
@@ -57,13 +59,13 @@ The review process follows the present pipeline in the [1KC public GitHub projec
 
 ## Roadmap
 
-### Stage 1: Pilot
+### Phase 1: Pilot
 
 *Pilot the program with limited conditions*
 
 - Discover and understand the bottlenecks of this program.
-- Contributors of varying backgrounds and levels of expertise can submit contributions. These contributions will be 
-subject to compliance with established guidelines outlined in this document and high levels of scrutiny.
+- Contributors of varying backgrounds and levels of expertise can submit contributions. These contributions 
+will be subject to compliance with established guidelines outlined in this document and high levels of scrutiny.
 
 The team initially launched the program as a pilot program, where tasks are outlined by Web3 Foundation and made 
 publicly.
@@ -81,7 +83,7 @@ Ambassador Programme](https://wiki.polkadot.network/docs/ambassadors) and active
 
 The purpose of this is to test out the program through active community members and reward existing contributors.
 
-### Stage 2: Scale
+### Phase 2: Scale
 
 *Scale the program with greater conditions*
 
@@ -90,23 +92,19 @@ The purpose of this is to test out the program through active community members 
 - Create an official landing page.
 - Increase funding amount.
 
-After the pilot program, the team intends to scale this to a grants-proposal model, where the community can propose 
-new ideas. 
+After the pilot program, the team intends to scale this to a grants-proposal model, where the community can 
+propose new ideas. 
 
 **Target Audience**: All types of Polkadot community members.
 
-### Stage 3: Decentralize
+### Phase 3: Decentralize
 
 *Decentralize the program with modified conditions*
 
-The program starts small with the goal to learn as we go. We plan to decentralize
-this programme and consider moving the program on-chain, as it makes sense. 
+The program starts small with the goal to learn as we go. We aim to decentralize
+the 1KC programme by moving the program on-chain. 
 
-> Similar to the Polkadot launch; Polkadot started as a Proof of Authority (PoA) network, without any other functionality 
-> than the ability to create blocks with nodes controlled by Web3 Foundation. Slowly, we started releasing features 
-> that allowed the network to be more decentralized, such as the ability to become a validator, and then governance,
-> followed by balance transfers, etc. We hope you will be excited to help us develop this program further with the 
-> same intent in mind.
+> We hope you will be excited to help us develop this program further with the same intent in mind.
 
 **Target Audience**: The entire Polkadot ecosystem.
 
@@ -122,20 +120,20 @@ this programme and consider moving the program on-chain, as it makes sense.
 - Support: 
   - [Michalis Fragkiadakis](https://github.com/michalisFr): Support related contributions
 
-The 1KC evaluators will reach out to Subject Matter Experts within Web3 Foundation where a niche expert opinion is 
-desirable. As the program is currently in a pilot model, an official committee will be established when the time is 
-appropriate.
+The 1KC evaluators will reach out to Subject Matter Experts within Web3 Foundation where a niche expert opinion 
+is desirable. As the program is currently in a pilot model, an official committee will be established when the 
+time is appropriate.
  
 ## Alternative Funding Sources
  
-We encourage you to explore the alternative funding options listed below. Please note, however, that you should not 
-seek to fund the same work from multiple sources. Anyone found doing so will be terminated from 1KC program.
+We encourage you to explore the alternative funding options listed below. Please note, however, that you should 
+not seek to fund the same work from multiple sources. Anyone found doing so will be terminated from 1KC program.
 
 ### Treasury
 
-The treasury is a pot of on-chain funds collected through transaction fees, slashing, staking inefficiencies, etc. The funds held 
-in the treasury can be spent on spending proposals. Both [Polkadot](https://polkadot.network/) and [Kusama](https://kusama.network/) 
-offer everyone the opportunity to apply for funding via the treasury. 
+The treasury is a pot of on-chain funds collected through transaction fees, slashing, staking inefficiencies, etc. 
+The funds held in the treasury can be spent on spending proposals. Both [Polkadot](https://polkadot.network/) and 
+[Kusama](https://kusama.network/) offer everyone the opportunity to apply for funding via the treasury. 
 See:
 
 - [Treasury Wiki](https://wiki.polkadot.network/docs/en/learn-treasury)

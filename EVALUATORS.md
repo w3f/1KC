@@ -1,6 +1,6 @@
 # 1KC Evaluators
 
-The following is a list of evaluators for the One Thousand Contributors Programme.
+The following is a list of evaluators for the Thousand Contributors Programme.
 
 Each evaluators's contact information is listed as a precaution - if one of these people ever 
 contacts you directly, first check the contact information to see that it matches the origin of the 
@@ -9,7 +9,8 @@ of the original inquiry.
 
 :warning: **Employee impersonation is a common type of scam**. :warning:
 
-> For other ways of protecting yourself, please see [How to Protect Yourself from Scams](scams.md).
+> For ways to protect yourself, please see the [How to Protect Yourself from Scams](scams.md) page on
+> the Polkadot Wiki.
 
 ## Technical Education
 
@@ -24,6 +25,7 @@ of the original inquiry.
 - email: [emre@web3.foundation](mailto:emre@web3.foundation)
 - matrix: [@emre:web3.foundation](https://matrix.to/#/@emre:web3.foundation)
 - twitter: [@semres8](https://twitter.com/semres8)
+- telegram: [@emresurmeli](https://t.me/emresurmeli)
 
 ### Danny Salman
 
@@ -38,10 +40,12 @@ of the original inquiry.
 
 - email: [michalis@web3.foundation](mailto:michalis@web3.foundation)
 - matrix: [@michalis:web3.foundation](https://matrix.to/#/@michalis:web3.foundation)
+- telegram: [@michalisFr](https://t.me/michalisFr)
 
-### Direction & Supervision
+## Supervision
 
-#### Bill Laboon:
+### Bill Laboon
+
   - email: [bill@web3.foundation](mailto:bill@web3.foundation)
   - matrix: [@bill:web3.foundation](https://matrix.to/#/@bill:web3.foundation)
   - twitter: [@BillLaboon](https://twitter.com/BillLaboon)
