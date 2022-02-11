@@ -39,7 +39,7 @@ The program, One Thousand Contributors Programme or 1KC for short, takes motivat
 
 You can signal your intent to participate by: 
 
-1. Choosing a task from this [list](https://github.com/orgs/w3f/projects/13) of open tasks,
+1. Choosing a task from this [list](https://github.com/orgs/w3f/projects/13) of open tasks
 2. Then filling out this [typeform](https://form.typeform.com/to/I9vjnCcI)
 
 ### Process
@@ -50,7 +50,7 @@ Once you have submitted your contribution proposal, the team will:
 2. Accept or deny. Once we review your proposal, we will get in touch with you about the status.
 3. Define your delivery. All tasks will have different delivery requirements; we will communicate what your 
 contribution needs to fulfill.
-4. Funding. Once both parties finalize the delivery of the task, the team will deposit your rewards to the account
+4. Fund. Once both parties finalize the delivery of the task, the team will deposit your rewards to the account
 shared with us.
 
 ### Submission reviews
