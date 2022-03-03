@@ -22,8 +22,8 @@
 ## Introduction
 
 The Technical Education and Support teams of Web3 Foundation, along with the Community team 
-at Parity Technologies offer an off-chain contributor program to support and fund community 
-contributions. As part of our commitment to promoting the Web 3.0 ecosystem, this program focuses on 
+at Parity Technologies offer a contributor program to support and reward community 
+contributions. As part of our commitment to promoting the WEB3 ecosystem, this program focuses on 
 funding contributions in the areas of **technical education**, **community** and 
 **support** that relates to the Polkadot ecosystem.
 
