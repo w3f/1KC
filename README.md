@@ -114,9 +114,8 @@ the 1KC programme by moving the program on-chain.
 
 - Supervisor: [Bill Laboon](https://github.com/laboon)
 - Technical Education: 
-  - [Radhakrishna Dasari](https://github.com/DrW3RK): Media related contributions 
+  - [Radhakrishna Dasari](https://github.com/DrW3RK): Media & Documentation related contributions 
   - [Emre Surmeli](https://github.com/emresurmeli): Communinty related contributions
-  - [Danny Salman](https://github.com/DannyS03): Documentation related contributions
 - Support: 
   - [Michalis Fragkiadakis](https://github.com/michalisFr): Support related contributions
 

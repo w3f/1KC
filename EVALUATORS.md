@@ -27,13 +27,6 @@ of the original inquiry.
 - twitter: [@semres8](https://twitter.com/semres8)
 - telegram: [@emresurmeli](https://t.me/emresurmeli)
 
-### Danny Salman
-
-- email: [danny@web3.foundation](mailto:danny@web3.foundation)
-- matrix: [@danny:web3.foundation](https://matrix.to/#/@danny:web3.foundation)
-- twitter: [@dannysalman_](https://twitter.com/dannysalman_)
-- telegram: [@dannysalman](https://t.me/dannysalman)
-
 ## Support
 
 ### Michalis Fragkiadakis
@@ -50,3 +43,12 @@ of the original inquiry.
   - matrix: [@bill:web3.foundation](https://matrix.to/#/@bill:web3.foundation)
   - twitter: [@BillLaboon](https://twitter.com/BillLaboon)
   - telegram: [@BillLaboon](https://t.me/BillLaboon)
+
+## Former Evaluators
+
+### Danny Salman
+
+- email: [danny.f.salman@gmail](mailto:danny.f.salman@gmail.com)
+- matrix: [@dannysalman:matrix.org](https://matrix.to/#/@dannysalman:matrix.org)
+- twitter: [@dannysalman_](https://twitter.com/dannysalman_)
+- telegram: [@dannysalman](https://t.me/dannysalman)
