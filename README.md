@@ -35,12 +35,9 @@ The program, One Thousand Contributors Programme or 1KC for short, takes motivat
 > For more information about Web3 Foundation, please visit the [About page](https://web3.foundation/about/) 
 > on our website.
 
-## How to Participate
+## How to Participate 
 
-You can signal your intent to participate by: 
-
-1. Choosing a task from this [list](https://github.com/orgs/w3f/projects/13) of open tasks
-2. Then filling out this [typeform](https://form.typeform.com/to/I9vjnCcI)
+Update: The Pilot phase has ended
 
 ### Process
 
